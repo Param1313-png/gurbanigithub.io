@@ -1,9 +1,14 @@
-
+<<<<<<< HEAD
+>>>>>>> 8438c990adf85f8b4d1d03595439d78ee8600299
 <!DOCTYPE html>
 <html>
 <head>
 <title>
-# gurbanigithub.io
+<<<<<<< HEAD
+
+
+homepage
+>>>>>>> 8438c990adf85f8b4d1d03595439d78ee8600299
 </title>
 </head>
 <body background="images/backround.jpeg">
@@ -23,4 +28,8 @@
 </center>
 </fieldset>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 8438c990adf85f8b4d1d03595439d78ee8600299
