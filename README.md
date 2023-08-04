@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>
-homepage
-</title>
-</head>
+<!DOCTYPE html><html><head><title>homepage</title></head>
 <body background="images/backround.jpeg">
 <br>
 <center><font size="10" face="boombox" color="gold">KHALSA JI</font><br>
