@@ -1,3 +1,6 @@
+<!DOCTYPE html><html><head><title>homepage</title></head>
+<body background="images/backround.jpeg">
+<br>
 <center><font size="10" face="boombox" color="gold">KHALSA JI</font><br>
 <font size= "7" face="aargau" color="Bumblebee yellow">GURBANI KIRTAN</font>
 <hr width="20%" size="5" color="Bumblebee yellow">
