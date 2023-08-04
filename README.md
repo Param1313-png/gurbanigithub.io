@@ -10,7 +10,6 @@
 </marquee>
 <fieldset>
 <legend><font size= "5" face="aargau" color="Bumblebee yellow">KIRTAN</font></legend>
-
 <center>
 <A href="images/video/a.mp4"><img src="images/manu/a.jpeg" border="6"></A>
 </center>
