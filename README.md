@@ -3,11 +3,7 @@
 <html>
 <head>
 <title>
-<<<<<<< HEAD
-
-
 homepage
-
 </title>
 </head>
 <body background="images/backround.jpeg">
@@ -21,14 +17,10 @@ homepage
 </marquee>
 <fieldset>
 <legend><font size= "5" face="aargau" color="Bumblebee yellow">KIRTAN</font></legend>
-
 <center>
 <A href="images/video/a.mp4"><img src="images/manu/a.jpeg" border="6"></A>
 </center>
 </fieldset>
 </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> 8438c990adf85f8b4d1d03595439d78ee8600299
+
